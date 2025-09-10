@@ -102,3 +102,4 @@ C:\Users\Gamer\RiderProjects\saucedemo\saucedemo\obj\Debug\net9.0\refint\saucede
 C:\Users\Gamer\RiderProjects\saucedemo\saucedemo\obj\Debug\net9.0\saucedemo.pdb
 C:\Users\Gamer\RiderProjects\saucedemo\saucedemo\obj\Debug\net9.0\saucedemo.genruntimeconfig.cache
 C:\Users\Gamer\RiderProjects\saucedemo\saucedemo\obj\Debug\net9.0\ref\saucedemo.dll
+C:\Users\Gamer\RiderProjects\saucedemo\saucedemo\obj\Debug\net9.0\saucedemo.sourcelink.json
